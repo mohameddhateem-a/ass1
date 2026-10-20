@@ -1,0 +1,174 @@
+
+.me{
+background-color: blue;
+text-align: center;
+border-radius: 30px;
+margin: 20px auto;
+width: auto;
+padding: 15px 20px;
+}
+.me button{
+    background-color: blue;
+    border-radius: 60%;
+    color: white;
+}
+.about-me {
+    background-color: white;
+    padding: 10px 20px;
+    width: auto;
+    margin: 20px 0;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+.about-me img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.about-text p {
+    line-height: 2.4;
+}
+.about-text button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
+.about-text {
+    display: inline-block;
+    width: 350px;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 30px;
+}
+.my-skills{
+background-color: white;
+border-radius: 20px;
+border-bottom: 1px solid #ddd;
+   
+}
+
+.my-skills{
+     border: 1px solid;
+}
+.my-skills h4{
+    color: blue;
+}
+.container{
+margin: auto;
+padding: 15px;
+width: 90%;
+}
+.clear{
+    clear: both;
+}
+.skill-card {
+    background-color: white;
+    float: left;
+    padding: 20px;
+    width: 20%;
+    border-radius: 10px;
+    border: 1px solid;
+    margin: 10px;
+}
+.skill-card h5 {
+    color: blue;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.skill-card p {
+    color: #555;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.experience {
+    background-color: white;
+    padding: 25px;
+    width: auto;
+    margin: 20px auto;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+.experience h4 {
+    color: #1e4f7b;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+.experience-card {
+    align-items: flex-start;
+    background-color: #f5f8fc;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border-left: 3px solid #1680ff 
+  
+}
+.experience-card img {
+    width: 45px;
+    height: 45px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.experience-text h5 {
+    margin: 0 0 8px;
+    color: #222;
+}
+
+.experience-text h6 {
+    margin: 0 0 8px;
+    color: #2475bd;
+}
+
+.experience-text p {
+    font-size: 13px;
+    color: #555;
+    line-height: 1.6;
+}
+
+.experience-text .date {
+    font-size: 12px;
+    color: #777;
+}
+
+.contact {
+    background-color: #1e4f7b;
+    color: white;
+    padding: 25px;
+    width: auto;
+    margin: 20px auto;
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+
+.contact h3 {
+    font-size: 22px;
+    margin-top: 0;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.contact p {
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+.contact a {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.12);
+    
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+    font-size: 13px;
+    transition: 0.3s;
+}
+.contact a:hover {
+    background-color: #0879c9;
+}
